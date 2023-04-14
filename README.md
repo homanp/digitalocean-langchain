@@ -1,6 +1,6 @@
 # digitalocean-langchain
 
-Boilerplate for deploying LangChain on Digitalocean App Platform
+Boilerplate for deploying [LangChain](https://github.com/hwchase17/langchain) on Digitalocean App Platform
 
 ## Installation and running locally
 
